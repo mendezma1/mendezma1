@@ -1,4 +1,7 @@
-### Hi there 👋
+### ola, seja bem vindo
+    tenho 15 anos
+    
+
 
 <!--
 **mendezma1/mendezma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
