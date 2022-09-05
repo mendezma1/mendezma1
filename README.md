@@ -1,5 +1,5 @@
 ### ola, seja bem vindo
-    tenho 15 ano,eu estou no 1 ano no ensino medio
+    tenho 15 anos,eu estou no 1 ano no ensino medio
    
     
 
